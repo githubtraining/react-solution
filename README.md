@@ -1,4 +1,9 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+This project was created with `create-react-app` and as such contains all the expected `react-scripts`.
+A quick description of each script can be found below.
+
+Be sure to run `npm install` after you clone this repository to install all neccessary dependencies **before** attempting to run any of these scripts!
 
 ## Available Scripts
 
